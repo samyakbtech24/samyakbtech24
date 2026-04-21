@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samyak</h1>
 <h3 align="center">An AI & LLM-focused developer building real-world intelligent systems</h3>
-# 💫 About Me:
+<h4>💫 About Me:</h4> 
 I’m currently learning Advanced LLM systems, Agentic AI, scalable deployment, vector databases<br><br>I’m looking to collaborate on LLM applications, RAG-based AI tools and Machine Learning projects<br><br>I’m looking for help with learning and scaling production-grade AI systems<br><br>All of my projects are available at https://github.com/samyakbtech24<br><br>📫 How to reach me hisamyak.2006@gmail.com
 
 
